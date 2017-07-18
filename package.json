@@ -1,0 +1,13 @@
+{
+  "name": "api-todos",
+  "version": "1.0.0",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.11.2",
+    "micro": "^7.3.3"
+  },
+  "scripts": {
+    "start": "json-server db.json"
+  }
+}
